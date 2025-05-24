@@ -1,0 +1,1 @@
+import{l as t,i as r,D as a}from"./vendor.js";import{U as o}from"./User.js";import{S as i}from"./Session.js";import{R as m}from"./index.js";import"./MyBaseModel.js";const e=new r.Database;e.register(a);e.register(o);e.register(i);e.register(m);const n=t({plugins:[r.install(e)]}),u=({app:s})=>{s.use(n)};export{u as default};
