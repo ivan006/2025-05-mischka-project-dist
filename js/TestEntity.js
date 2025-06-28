@@ -1,0 +1,1 @@
+var c=Object.defineProperty;var m=(s,t,e)=>t in s?c(s,t,{enumerable:!0,configurable:!0,writable:!0,value:e}):s[t]=e;var a=(s,t,e)=>m(s,typeof t!="symbol"?t+"":t,e);import{B as n}from"./BasicModel.js";class i extends n{}a(i,"entity","Menu_Items"),a(i,"entityUrl","/Menu_Items");export{i as H};

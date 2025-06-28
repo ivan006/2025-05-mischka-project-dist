@@ -1,1 +1,1 @@
-import{n as a,r as n,c as r,e as s,w as e,p as t,q as c,s as _}from"./vendor.js";const u={};function l(f,p){const o=n("router-view");return s(),r(_,null,{default:e(()=>[t(c,null,{default:e(()=>[t(o)]),_:1})]),_:1})}const d=a(u,[["render",l]]);export{d as default};
+import{r,c as a,e as n,w as e,n as t,p as c,q as s}from"./vendor.js";import{_}from"./_plugin-vue_export-helper.js";const u={};function l(f,p){const o=r("router-view");return n(),a(s,null,{default:e(()=>[t(c,null,{default:e(()=>[t(o)]),_:1})]),_:1})}const d=_(u,[["render",l]]);export{d as default};
