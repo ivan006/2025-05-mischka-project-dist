@@ -1,1 +1,0 @@
-var o=Object.defineProperty;var n=(e,t,s)=>t in e?o(e,t,{enumerable:!0,configurable:!0,writable:!0,value:s}):e[t]=s;var a=(e,t,s)=>n(e,typeof t!="symbol"?t+"":t,s);import{B as c}from"./BasicModel.js";class i extends c{}a(i,"entity","Home_Page_Singleton"),a(i,"entityUrl","/Home_Page_Singleton");export{i as H};
